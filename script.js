@@ -50,5 +50,5 @@ function ManageForm(props){
         </div>
     );
 }
-const example = ['nam', 'th'];
+const example = ['nam', 'thu'];
 ReactDOM.render(<ManageForm data={example}/>, document.getElementById('root'));
